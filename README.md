@@ -1,6 +1,7 @@
 # Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+I update this solution as I learn new things and receive feedback. I would appreciate it if you could share your feedback.
 
 ## Table of contents
 
@@ -14,7 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,9 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](design/mobile-design.jpg)
 ![Alt text](design/desktop-design.jpg)
-
+![Alt text](design/mobile-design.jpg)
 
 ### Links
 
@@ -43,18 +42,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 
 
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ahmethakanmert](https://www.frontendmentor.io/profile/ahmethakanmert)
 
